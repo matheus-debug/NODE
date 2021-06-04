@@ -17,12 +17,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/matheus-debug/NODE/NODE.git"
+    "url": "git+https://github.com/matheus-debug/NODE.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/matheus-debug/NODE/NODE/issues"
+    "url": "https://github.com/matheus-debug/NODE/issues"
   },
-  "homepage": "https://github.com/matheus-debug/NODE/NODE#readme"
+  "homepage": "https://github.com/matheus-debug/NODE#readme"
 }
